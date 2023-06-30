@@ -20,7 +20,7 @@
 
  
 
-- 👯 I’m looking for **Entry-level developer/analyst internships in the tech space.**
+- 👩🏾‍💻 I’m looking for **Entry-level developer/analyst internships in the tech space.**
 
  
 
