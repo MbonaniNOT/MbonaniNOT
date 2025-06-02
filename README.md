@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Naledi</h1>
 
-<h3 align="center">I'm a passionate Computer Information Systems student.</h3>
+<h3 align="center">I'm a Computer Information Systems Graduate</h3>
 
  
 
@@ -16,7 +16,7 @@
 
  
 
-- 🌱 I’m currently learning **Python.**
+- 🌱 I’m currently learning **HTML, CSS and JavaScript**
 
  
 
@@ -28,7 +28,7 @@
 
  
 
-- ⚡ Fun fact **I love reading and Basketball.**
+- ⚡ Fun fact **I love traveling, reading and listening to music.**
 
  
 
